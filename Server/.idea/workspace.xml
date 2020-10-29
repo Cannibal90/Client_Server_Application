@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92fb82f2-7b68-4424-8504-0d8831972fe9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cvFjpgHVz6PqkJJBckK2SmTD7T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Client" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="network.program.apt.Main" />
+      <module name="Server" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;Krystian&quot;,&quot;C:\Users\Testo\Desktop\STUDIA\IV semestr\PO2&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="network.program.apt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92fb82f2-7b68-4424-8504-0d8831972fe9" name="Default Changelist" comment="" />
+      <created>1591401297761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591401297761</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="82" key="#Main" timestamp="1591438929546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="82" key="#Main/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591438929546" />
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592831515542">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592831515542" />
+    <state x="548" y="116" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1591438835453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="116" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591438835453" />
+    <state x="2638" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1592600243252">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591452241538" />
+    <state x="2638" y="153" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592600243252" />
+    <state x="2621" y="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592656745370">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2621" y="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592656745370" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1593446321737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1593446321737" />
+    <state x="2606" y="211" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592656742785" />
+    <state width="1877" height="191" key="GridCell.Tab.0.bottom" timestamp="1592831843225">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592604961835" />
+    <state width="1877" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592831843225" />
+    <state width="1877" height="191" key="GridCell.Tab.0.center" timestamp="1592831843224">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592604961835" />
+    <state width="1877" height="191" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592831843224" />
+    <state width="1877" height="191" key="GridCell.Tab.0.left" timestamp="1592831843224">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592604961835" />
+    <state width="1877" height="191" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592831843224" />
+    <state width="1877" height="191" key="GridCell.Tab.0.right" timestamp="1592831843224">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592604961835" />
+    <state width="1877" height="191" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592831843224" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1592611506044">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592611506044" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1592611506044">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592611506044" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1592611506044">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592611506044" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1592611506044">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592611506044" />
+    <state x="2651" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592428926612">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2651" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592428926612" />
+    <state x="209" y="114" key="new project wizard" timestamp="1591404391082">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="114" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591404391082" />
+    <state x="2586" y="138" key="refactoring.ChangeSignatureDialog" timestamp="1591613438456">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2586" y="138" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591613438456" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592600976981">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592583426733" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592600976981" />
+  </component>
+</project>

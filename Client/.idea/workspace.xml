@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ccc8760-85d3-44ba-a187-90a0963de3f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cvM0ZvfyKnfjZUZfTqUC7zPNte" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Application.Client2">
+    <configuration name="Client2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="network.program.apt.Main" />
+      <module name="Client" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;Krystian&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="network.program.apt.Main" />
+      <module name="Client" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;Student&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="network.program.apt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Client2" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ccc8760-85d3-44ba-a187-90a0963de3f4" name="Default Changelist" comment="" />
+      <created>1591404391110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591404391110</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1593008163468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1593008163468" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592604269266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592604269266" />
+    <state x="2199" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592604031019" />
+    <state x="612" y="181" key="#com.intellij.ide.util.MemberChooser" timestamp="1592609513455">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="612" y="181" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592609513455" />
+    <state x="2685" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591453500153" />
+    <state x="498" y="194" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592604220819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="194" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592604220819" />
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1591572221430">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591572221430" />
+    <state x="526" y="150" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592656692044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="150" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592656692044" />
+    <state x="2606" y="211" key="FileChooserDialogImpl" timestamp="1593005533044">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592825800056" />
+    <state x="2606" y="211" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593005533044" />
+    <state width="1493" height="158" key="GridCell.Tab.0.bottom" timestamp="1592831844312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592831844312" />
+    <state width="1877" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592604032481" />
+    <state width="1493" height="158" key="GridCell.Tab.0.center" timestamp="1592831844312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592831844312" />
+    <state width="1877" height="158" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592604032481" />
+    <state width="1493" height="158" key="GridCell.Tab.0.left" timestamp="1592831844312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592831844312" />
+    <state width="1877" height="158" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592604032481" />
+    <state width="1493" height="158" key="GridCell.Tab.0.right" timestamp="1592831844312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592831844312" />
+    <state width="1877" height="158" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592604032481" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1592611511603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592611511603" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1592611511603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592611511603" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1592611511603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592611511603" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1592611511603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592611511603" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1593007693623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1593007693623" />
+    <state x="209" y="107" key="new project wizard" timestamp="1593000221582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="107" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1593000221582" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1591570823053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591570823053" />
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup" timestamp="1592598365767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592598365767" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591452834879" />
+  </component>
+</project>
